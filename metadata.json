@@ -1,0 +1,6 @@
+{
+  "name": "개인 맞춤형 카페인 수면 시뮬레이터",
+  "description": "체중, 카페인 음료, 섭취 시각, 목표 수면 시각을 기반으로 약동학적 반감기 및 뇌 아데노신 수용체 차단율을 분석하여 과학적 수면 방해 지수와 신경생리학적 가이드를 제공합니다.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
